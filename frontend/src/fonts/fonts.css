@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Robus';
+    src: url('./Robus-BWqOd.otf') format('opentype'); /* Replace with the actual path */
+    /* You can also include additional font formats (e.g., woff2, ttf) for cross-browser compatibility */
+    /* Add other font-face properties if necessary */
+  }
